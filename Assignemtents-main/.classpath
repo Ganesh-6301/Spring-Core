@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Assignemtents-main/Assginment2/src"/>
+	<classpathentry kind="src" path="Assignemtents-main/Assignment1/src"/>
+	<classpathentry kind="src" path="Assignemtents-main/Assignment3/src"/>
+	<classpathentry kind="src" path="Assignemtents-main/Assignment5/src"/>
+	<classpathentry kind="src" path="Assignemtents-main/Asssignement3ad/src"/>
+	<classpathentry kind="src" path="Assignemtents-main/hello world/src"/>
+	<classpathentry kind="src" path="Assignemtents-main/LamdabasicsanAssignment/src"/>
+	<classpathentry kind="src" path="Assignemtents-main/SpringFrameWork/anno/src/main/java"/>
+	<classpathentry kind="src" path="Assignemtents-main/SpringFrameWork/Appdemo/src/main/java"/>
+	<classpathentry kind="src" path="Assignemtents-main/SpringFrameWork/ApplicatioinDemo/src/main/java"/>
+	<classpathentry kind="src" path="Assignemtents-main/SpringFrameWork/assignmen3.demo/src/main/java"/>
+	<classpathentry kind="src" path="Assignemtents-main/SpringFrameWork/assignmen3.demo/src/test/java"/>
+	<classpathentry kind="src" path="Assignemtents-main/SpringFrameWork/Springdemo/src"/>
+	<classpathentry kind="output" path="Assignemtents-main/SpringFrameWork/Appdemo/target/classes"/>
+</classpath>

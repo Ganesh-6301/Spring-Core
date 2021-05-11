@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans 
+           http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+           http://www.springframework.org/schema/context
+           http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+    
+    
+    
+
+
+     <bean id="address" class="Assignementq1.Addresses">
+     
+        <constructor-arg value="yallama mandir"> </constructor-arg>
+        <constructor-arg  value="solapur"></constructor-arg>
+        <constructor-arg value="maharshtra"></constructor-arg>
+        <constructor-arg value="423005"></constructor-arg>
+        <constructor-arg value="india"></constructor-arg>
+     
+     </bean>
+     
+     <bean id="customer" class="Assignementq1.Customer">
+     
+     
+      <constructor-arg value="1"> </constructor-arg>
+        <constructor-arg  value="Navin"></constructor-arg>
+        <constructor-arg  value="9579118286"></constructor-arg>
+        <constructor-arg ref="address"></constructor-arg>
+        
+     
+     
+     
+     </bean>
+        
+     
+
+
+
+
+
+
+</beans>
